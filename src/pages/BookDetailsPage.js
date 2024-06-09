@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom';
 import { getBookById } from '../api';
 import BookDetails from '../components/BookDetails';
 import LoadingSpinner from '../components/LoadingSpinner';
-import Error from '../components/Error';
+import Error from '../components/Error/Error';
 
 const BookDetailsPage = () => {
   const { id } = useParams();

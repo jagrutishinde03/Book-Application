@@ -1,0 +1,11 @@
+/* Error.css */
+.error-message {
+  text-align: center;
+  font-size: 1.2em;
+  color: #c31414 !important; /* Ensure the color takes precedence */
+  padding: 10px;
+  background-color: #ffeeee;
+  border: 1px solid #ffcccc;
+  border-radius: 5px;
+  margin-top: 20px;
+}
