@@ -59,7 +59,7 @@ The application fetches data from the provided API endpoints:
 Ensure you have Postman installed to test these APIs and familiarize yourself with the API responses.
 
 ## Project Structure
-
+```
 Book-Application/
 ├── public/
 │   ├── index.html
@@ -82,7 +82,7 @@ Book-Application/
 ├── README.md
 └── ...
 
-
+```
 ## Additional Notes
 
 - Error handling and loading states are implemented to provide a seamless user experience.
