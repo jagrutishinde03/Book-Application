@@ -1,6 +1,4 @@
-Certainly! Here's the full README file for the Book Application project:
 
-```markdown
 # Book Application
 
 Welcome to the Book Application project repository! This repository contains a frontend application developed using React.js framework. The application allows users to browse through a collection of books fetched from a provided API and view detailed information about each book.
@@ -90,7 +88,10 @@ Book-Application/
 - Error handling and loading states are implemented to provide a seamless user experience.
 - The application follows responsive design principles to ensure compatibility with various screen sizes.
 
-
+![Book Application Screenshot](https://github.com/jagrutishinde03/Book-Application/blob/main/public/1.png)
+![Book Application Screenshot](https://github.com/jagrutishinde03/Book-Application/blob/main/public/2.png)
+![Book Application Screenshot](https://github.com/jagrutishinde03/Book-Application/blob/main/public/3.png)
+![Book Application Screenshot](https://github.com/jagrutishinde03/Book-Application/blob/main/public/4.png)
 
 ## Author
 
@@ -98,7 +99,5 @@ Jagruti Shinde
 
 
 
----
-
 Feel free to reach out if you have any questions or need further assistance. Happy coding!
-```
+
